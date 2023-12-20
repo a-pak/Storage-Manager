@@ -1,4 +1,4 @@
-#Storage manager for warehouses
+##Storage manager for warehouses
 
 Scalable storage manager that works in a browser. It can be connected to a remote PLC using MQTT broker. 
 Frontend works with React.js
