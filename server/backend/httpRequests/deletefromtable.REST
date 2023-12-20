@@ -1,0 +1,1 @@
+DELETE http://127.0.0.1:5000/api/stock/6cf9b165-32ea-452a-9483-a8e375a11331

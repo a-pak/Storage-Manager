@@ -1,0 +1,8 @@
+POST http://127.0.0.1:5000/api/stock 
+Content-Type: application/json
+
+{
+  "name": "testi tuote 3",
+  "description": "tämmönen tuote 3",
+  "location": 3
+}
