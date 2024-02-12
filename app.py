@@ -18,5 +18,6 @@ def mosquitto_loop():
 if __name__ == "__main__":
   mosquitto_thread = threading.Thread(target=mosquitto_loop)
   mosquitto_thread.start()
-  app.run()
+  
+  app.run(host="0.0.0.0", port=5000)
   ##app.run(host="localhost", port=5000, debug=True)
